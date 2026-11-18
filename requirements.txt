@@ -1,8 +1,7 @@
-fastapi==0.111.0
-uvicorn==0.29.0
-supabase==2.4.0
-google-genai>=1.0.0
-python-dotenv==1.0.1
-pydantic==2.7.1
-pydantic-core==2.18.2
-pywebpush==2.0.3
+fastapi
+uvicorn
+supabase
+google-genai
+python-dotenv
+pydantic
+pywebpush
